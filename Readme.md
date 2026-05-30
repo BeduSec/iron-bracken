@@ -147,7 +147,7 @@ Iron Bracken is a fictional proof-of-concept developed for security research and
 
 ## License
 
-MIT License. See [LICENSE](LICENCE) for details.
+MIT License. See [LICENSE](LICENSE) for details.
 
 ---
 
