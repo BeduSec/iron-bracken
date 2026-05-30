@@ -47,7 +47,7 @@ No packets go where they shouldn’t. No signatures match.
 ## 📦 Installation (Operator Side)
 
 ```bash
-git clone https://github.com/iciiwhite/iron-bracken.git
+git clone https://github.com/bedusec/iron-bracken.git
 cd iron-bracken
 python3 -m venv breck
 source breck/bin/activate
